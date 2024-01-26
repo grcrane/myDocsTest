@@ -1,5 +1,6 @@
 <!-- docs/_sidebar.md -->
 
+<h3>This is the sidebar</h3>
 
 * [HOME](./)
 
